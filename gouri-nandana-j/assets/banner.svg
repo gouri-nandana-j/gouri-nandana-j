@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="It's lights out and away we go, with the F1 start lights">
+<title>It’s lights out and away we go</title>
+<rect width="900" height="240" rx="18" fill="#f2eee6"/>
+<rect x="96" y="60" width="316" height="12" fill="#141414"/>
+<rect x="112" y="72" width="44" height="106" fill="#141414"/>
+<circle cx="134" cy="120" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.08;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="134" cy="154" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.08;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="172" y="72" width="44" height="106" fill="#141414"/>
+<circle cx="194" cy="120" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.18;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="194" cy="154" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.18;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="232" y="72" width="44" height="106" fill="#141414"/>
+<circle cx="254" cy="120" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.28;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="254" cy="154" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.28;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="292" y="72" width="44" height="106" fill="#141414"/>
+<circle cx="314" cy="120" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.38;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="314" cy="154" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.38;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="352" y="72" width="44" height="106" fill="#141414"/>
+<circle cx="374" cy="120" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.48;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="374" cy="154" r="15" fill="#e32222"><animate attributeName="fill" values="#3a1010;#e32222;#3a1010;#3a1010" keyTimes="0;0.48;0.72;0.99" calcMode="discrete" dur="6s" repeatCount="indefinite"/></circle>
+
+<g font-family="'Eurostile','Bank Gothic','Century Gothic','Trebuchet MS','Segoe UI',Arial,sans-serif" font-weight="800" fill="#141414" text-anchor="middle">
+  <text x="650" y="106" font-size="40" textLength="330" lengthAdjust="spacingAndGlyphs">It’s Lights Out</text>
+  <line x1="485" y1="130" x2="610" y2="130" stroke="#e32222" stroke-width="3"/><line x1="690" y1="130" x2="815" y2="130" stroke="#e32222" stroke-width="3"/>
+  <text x="650" y="137" font-size="20" font-weight="700">and</text>
+  <text x="650" y="178" font-size="40" textLength="245" lengthAdjust="spacingAndGlyphs">Away We Go</text>
+</g>
+</svg>
