@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gouri-nandana-j-15a790290/">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://discordapp.com/users/YOUR-DISCORD-USER-ID">Discord</a>
+  <a href="https://discordapp.com/users/1158281252546285568">Discord</a>
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
