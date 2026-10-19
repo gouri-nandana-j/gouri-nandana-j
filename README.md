@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="It's lights out and away we go" width="100%" />
+</p>
 
-<!--
-**gouri-nandana-j/gouri-nandana-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hello 👋, I'm <b>Gouri Nandana J</b>. Glad you stopped by 💙🏁.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://discordapp.com/users/YOUR-DISCORD-USER-ID">Discord</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/divider.svg" alt="" width="100%" />
+
+### Stack
+
+**Languages** &nbsp; Python · C · Java · JavaScript · HTML/CSS · SQL<br />
+**Frameworks** &nbsp; Next.js · React · FastAPI · TensorFlow/Keras · Prisma<br />
+**Tools** &nbsp; Git · GitHub · VS Code
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<!-- 🚀 Projects section goes here later (add your Markdown links) -->
